@@ -1,2 +1,2 @@
-# mi-repositorio-2
+# mi-repositorio
 primer repositorio de prueba para el diplomado
